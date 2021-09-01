@@ -14,18 +14,16 @@
     <div id="portfolio" class="portfolio">
         <div class="container">
             <div class="row">
-                <h1 class="fw-bold text-center mt-5 mb-5">Portfolio</h1>
-
                 <!-- start portfolio section -->
                 <section id="portfolio" class="portfolio">
                     <div class="container">
                         <div class="row text-center">
-                            <h1 class="display-3 fw-bold text-capitilize mt-5">Latest Work</h1>
+                            <h1 class="display-3 fw-bold text-capitilize mt-3">Latest Work</h1>
                             <div class="heading-line"></div>
                             <p class="lead">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro possimus maxime quos.</p>
                         </div>
                         <!-- filter Buttons -->
-                        <div class="row text-center mt-5 mb-4 g-3">
+                        <div class="row text-center mt-2 mb-2 g-3">
                             <div class="col-md-12">
                                 <button class="btn btn-outline-primary" id="filter-button" type="button" data-filter="all">All</button>
                                 <button class="btn btn-outline-primary" id="filter-button" type="button" data-filter="web">Websites</button>
@@ -39,7 +37,7 @@
                                     <img src="assets/images/project-1.jpg" alt="" class="img-fluid">
                                     <div class="portfolio-info">
                                         <div class="caption">
-                                            <h4>Project Name 1 </h4>
+                                            <h4>Portfolio Website</h4>
                                             <p>Website</p>
                                         </div>
                                     </div>
@@ -51,8 +49,8 @@
                                     <img src="assets/images/project-2.jpg" alt="" class="img-fluid">
                                     <div class="portfolio-info">
                                         <div class="caption">
-                                            <h4>Project Name 1 </h4>
-                                            <p>Design, web </p>
+                                            <h4>Admin Panel Mockup</h4>
+                                            <p>Design,Web </p>
                                         </div>
                                     </div>
                                 </div>
@@ -63,8 +61,8 @@
                                     <img src="assets/images/project-3.jpg" alt="" class="img-fluid">
                                     <div class="portfolio-info">
                                         <div class="caption">
-                                            <h4>Project Name 1 </h4>
-                                            <p>website, mockup</p>
+                                            <h4>eCommerce store design</h4>
+                                            <p>Website,eCommerce</p>
                                         </div>
                                     </div>
                                 </div>
@@ -75,7 +73,7 @@
                                     <img src="assets/images/project-4.jpg" alt="" class="img-fluid">
                                     <div class="portfolio-info">
                                         <div class="caption">
-                                            <h4>Project Name 1 </h4>
+                                            <h4>Mobile App Design</h4>
                                             <p>mockup</p>
                                         </div>
                                     </div>
@@ -87,7 +85,7 @@
                                     <img src="assets/images/project-5.jpg" alt="" class="img-fluid">
                                     <div class="portfolio-info">
                                         <div class="caption">
-                                            <h4>Project Name 1 </h4>
+                                            <h4>Business Website</h4>
                                             <p>web</p>
                                         </div>
                                     </div>
@@ -99,7 +97,7 @@
                                     <img src="assets/images/project-6.jpg" alt="" class="img-fluid">
                                     <div class="portfolio-info">
                                         <div class="caption">
-                                            <h4>Project Name 1 </h4>
+                                            <h4>School Website</h4>
                                             <p>design,website</p>
                                         </div>
                                     </div>
@@ -111,7 +109,7 @@
                                     <img src="assets/images/project-7.jpg" alt="" class="img-fluid">
                                     <div class="portfolio-info">
                                         <div class="caption">
-                                            <h4>Project Name 1 </h4>
+                                            <h4>Blog Design</h4>
                                             <p>mockup</p>
                                         </div>
                                     </div>
@@ -123,8 +121,8 @@
                                     <img src="assets/images/project-8.jpg" alt="" class="img-fluid">
                                     <div class="portfolio-info">
                                         <div class="caption">
-                                            <h4>Project Name 1 </h4>
-                                            <p>Websitey</p>
+                                            <h4>WordPress Plugin</h4>
+                                            <p>Websites</p>
                                         </div>
                                     </div>
                                 </div>
@@ -135,7 +133,7 @@
                                     <img src="assets/images/project-1.jpg" alt="" class="img-fluid">
                                     <div class="portfolio-info">
                                         <div class="caption">
-                                            <h4>Project Name 1 </h4>
+                                            <h4>WordPress Theme</h4>
                                             <p>Design</p>
                                         </div>
                                     </div>
@@ -149,7 +147,7 @@
         </div>
     </div>
     <script src="assets/js/custom.js"></script>
-    
+
     <script src="assets/js/bootstrap.bundle.js"></script>
 </body>
 

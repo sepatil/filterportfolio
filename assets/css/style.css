@@ -11147,9 +11147,10 @@ textarea.form-control-lg {
   left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
+  width: 100%;
 }
 .portfolio-box .portfolio-info .caption h4 {
-  text-transform: uppercase;
+  font-size: 2rem;
   display: block;
 }
 .portfolio-box:hover img {
