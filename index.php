@@ -18,7 +18,7 @@
         <section id="portfolio" class="portfolio">
           <div class="container">
             <div class="row text-center">
-              <h1 class="display-3 fw-bold text-capitilize mt-3">My Latest Work showcase</h1>
+              <h1 class="display-3 fw-bold text-capitilize mt-3">My Work folio showcase</h1>
               <div class="heading-line"></div>
               <p class="lead">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro possimus maxime quos.</p>
             </div>
