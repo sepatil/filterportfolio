@@ -47,7 +47,7 @@ class Wcodex_Shortcode {
           </div>
           <div class="card-body">
             <h5 class="fw-bold"><?php the_title(); ?></h5>
-            <p class="text-muted"><?php echo get_the_excerpt(); ?></p>
+
           </div>
           <div class="card-footer bg-white border-0 d-flex justify-content-between">
             <?php if ($github): ?>
