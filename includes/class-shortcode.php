@@ -12,8 +12,6 @@ class Wcodex_Shortcode {
 
 <section class="wcodex-portfolio py-5 bg-light">
   <div class="container">
-    <h2 class="fw-bold text-center mb-5">My WordPress Projects</h2>
-
     <div class="text-center mb-4">
       <?php $options = get_option('wcodex-portfolio-settings');?>
       <button class="btn btn-outline-primary mx-1 filter-btn active" data-filter="all">All</button>
